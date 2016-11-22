@@ -24,6 +24,16 @@ a.active {
   color: #18BC9C;
   outline: none;
 }
+
+.white_link a,
+.white_link a:hover,
+.white_link a:focus,
+.white_link a:active,
+.white_link a.active {
+  color: #ffffff;
+  outline: none;
+}
+
 h1,
 h2,
 h3,
