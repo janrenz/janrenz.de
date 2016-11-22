@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Safe"
-date:   2016-02-02 15:08:10 -0500
-img: img/portfolio/safe.png
+title:  "Schul-Cloud"
+img: cloud.png
 modalID: modalSchulCloud
 
 ---
@@ -10,4 +9,4 @@ Use this area of the page to describe your project. The icon above is part of a 
 
 In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+image-source: hpi.de
