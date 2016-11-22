@@ -28,10 +28,10 @@
                             </li>
                             {% endif %}
                             {% if post.link %}
-                            <li>Link:
+                            <li>Links{% if post.link2 %}s{% endif %}:<br />
                                 <a href="{{ post.link }}">{{ post.link}}</a>
                                 {% if post.link2 %}
-                                  <br ?>  
+                                  <br ?>
                                   <a href="{{ post.link2 }}">{{ post.link2}}</a>
                                 {% endif %}
                             </li>
