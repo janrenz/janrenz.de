@@ -5,8 +5,8 @@
     <description>Nerd, Researcher, PhD Candidate</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Nov 2016 10:09:50 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Nov 2016 10:09:50 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Nov 2016 10:16:57 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2016 10:16:57 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -59,8 +59,8 @@ openHPI started in 2013 and is build with the help of a large crowd of students 
         <description>&lt;p&gt;The Schul-Cloud is an pilot project to investigate how cloud infrastructure can be used to support the digitalsation of learning in a school context.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Feb 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000//2016/02/02/safe.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2016/02/02/safe.html</guid>
+        <link>http://localhost:4000//2016/02/02/schulcloud.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/02/02/schulcloud.html</guid>
         
         
       </item>
