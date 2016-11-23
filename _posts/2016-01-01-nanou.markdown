@@ -3,8 +3,8 @@ layout: post
 title:  "nanou"
 img: nanou.png
 modalID: modalNanou
-link: https://githiub.com/openHPI/nanou-server
-link2: https://githiub.com/openHPI/nanou-ios
+link: https://github.com/openHPI/nanou-server
+link2: https://github.com/openHPI/nanou-ios
 runtime: "fall 2016 - ongoing"
 ---
 
