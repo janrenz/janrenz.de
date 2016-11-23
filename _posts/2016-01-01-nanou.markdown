@@ -5,6 +5,7 @@ img: submarine.png
 modalID: modalNanou
 link: https://githiub.com/openHPI/nanou-server
 link2: https://githiub.com/openHPI/nanou-ios
+runtime: fall 2016 - ongoing
 ---
 
-Some text
+Established learning patterns from the world of MOOCs do not work for users that are mobile-only. Nanou is a research project to investigate how Nano-Learning can be used in combination with a knowledge graph to support mobile learning patterns. It is written in Python and a first prototype is expected to be released in early 2017.

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "openSAP"
+img: opensap.png
+modalID: modalopenSAP
+link: https://open.sap.com
+runtime: 2013 - ongoing
+---
+openSAP is the MOOC platform where SAP provides free courses. As a part of the research team on knowledge and learning engineering we are responsible for development and research in the field of enterprise MOOCs. Mainly i work in the field of learning analytics, UI/UX and Offline Support.

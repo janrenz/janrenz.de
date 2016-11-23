@@ -15,19 +15,19 @@
                         <hr class="star-primary">
                         <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="">
                         {{ post.content }}
-                        <ul class="list-unstyled item-details">
+                        <ul class="list-unstyled item-details larger-text">
                             {% if post.category %}
                             <li>Category:
                                 <strong>{{ post.category }}</strong>
                             </li>
                             {% endif %}
-                            {% if post.date %}
+                            {% if post.runtime %}
                             <li>Date:
-                                <strong>{{ post.date | date: "%B %Y" }}</strong>
+                                <strong>{{ post.runtime}}</strong>
                             </li>
                             {% endif %}
                             {% if post.link %}
-                            <li>Link{% if post.link2 %}s{% endif %}:<br />
+                            <li>
                                 <a href="{{ post.link }}">{{ post.link}}</a>
                                 {% if post.link2 %}
                                   <br />

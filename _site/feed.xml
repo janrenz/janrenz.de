@@ -5,17 +5,47 @@
     <description>Nerd, Researcher, PhD Candidate</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Nov 2016 07:57:35 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Nov 2016 07:57:35 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Nov 2016 09:23:29 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2016 09:23:29 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
+        <title>openWHO</title>
+        <description>&lt;p&gt;OpenWHO is WHO’s new, interactive, web-based platform that offers Massive Open Online Courses (MOOCs) to people preparing to work in health emergencies or already doing so. OpenWHO transfers often life-saving expertise from WHO and its key partners to front-line responders. WHO’s strengths include its global expertise and convening power. The OpenWHO platform delivers WHO’s and partners’ expertise closer to where it is needed and provides information in user-friendly formats. Together with WHO we not only provide the platform, we also investigate how MOOCs can be used in this context and how the concept and the underlying technology can be optimized for this important use-case.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000//2016/03/01/openwho.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/03/01/openwho.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>openSAP</title>
+        <description>&lt;p&gt;openSAP is the MOOC platform where SAP provides free courses. As a part of the research team on knowledge and learning engineering we are responsible for development and research in the field of enterprise MOOCs. Mainly i work in the field of learning analytics, UI/UX and Offline Support.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000//2016/03/01/opensap.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/03/01/opensap.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mobile Apps</title>
+        <description>&lt;p&gt;Users who do learn ubiquitous (mobile and in the browser) tend to have far better completion rates. To support this native mobile apps for all our MOOC platforms are offered. They support and platform specific UI/UX and the possibility to learn offline.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000//2016/03/01/mobileapps.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/03/01/mobileapps.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>openHPI</title>
-        <description>&lt;p&gt;Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!&lt;/p&gt;
-
-&lt;p&gt;In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!&lt;/p&gt;
-
-&lt;p&gt;image-source: hpi.de&lt;/p&gt;
+        <description>&lt;p&gt;openHPI is the MOOC platform of the Hasso Plattner Institute. As part of the research team on knowledge and learning engineering i am responsible for development and running the platform, but more important also do research in the field of massive scalable e-learning. openHPI is based on an SOA with 20+ Microservices, mostly written in Ruby. I also host courses from time to time.
+openHPI started in 2013 and is build with the help of a large crowd of students helping us with new features and research.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Feb 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000//2016/02/03/openhpi.html</link>
@@ -26,11 +56,7 @@
     
       <item>
         <title>Schul-Cloud</title>
-        <description>&lt;p&gt;Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!&lt;/p&gt;
-
-&lt;p&gt;In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!&lt;/p&gt;
-
-&lt;p&gt;image-source: hpi.de&lt;/p&gt;
+        <description>&lt;p&gt;The Schul-Cloud is an pilot project to investigate how cloud infrastructure can be used to support the digitalsation of learning in a school context.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Feb 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000//2016/02/02/safe.html</link>
@@ -41,7 +67,7 @@
     
       <item>
         <title>nanou</title>
-        <description>&lt;p&gt;Some text&lt;/p&gt;
+        <description>&lt;p&gt;Established learning patterns from the world of MOOCs do not work for users that are mobile-only. Nanou is a research project to investigate how Nano-Learning can be used in combination with a knowledge graph to support mobile learning patterns. It is written in Python and a first prototype is expected to be released in early 2017.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000//2016/01/01/nanou.html</link>

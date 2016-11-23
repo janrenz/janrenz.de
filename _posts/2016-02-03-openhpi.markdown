@@ -2,11 +2,9 @@
 layout: post
 title:  "openHPI"
 img: openhpi.png
-modalID: modalopenHI
+modalID: modalopenHPI
 link: https://open.hpi.de
+runtime: 2013 - ongoing
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
-
-image-source: hpi.de
+openHPI is the MOOC platform of the Hasso Plattner Institute. As part of the research team on knowledge and learning engineering i am responsible for development and running the platform, but more important also do research in the field of massive scalable e-learning. openHPI is based on an SOA with 20+ Microservices, mostly written in Ruby. I also host courses from time to time.
+openHPI started in 2013 and is build with the help of a large crowd of students helping us with new features and research.

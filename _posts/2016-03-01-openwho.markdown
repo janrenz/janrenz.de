@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "openWHO"
+img: openwho.png
+modalID: modalopenWHO
+link: https://openwho.org
+runtime: 2016 - ongoing
+---
+
+OpenWHO is WHO’s new, interactive, web-based platform that offers Massive Open Online Courses (MOOCs) to people preparing to work in health emergencies or already doing so. OpenWHO transfers often life-saving expertise from WHO and its key partners to front-line responders. WHO’s strengths include its global expertise and convening power. The OpenWHO platform delivers WHO’s and partners’ expertise closer to where it is needed and provides information in user-friendly formats. Together with WHO we not only provide the platform, we also investigate how MOOCs can be used in this context and how the concept and the underlying technology can be optimized for this important use-case.
