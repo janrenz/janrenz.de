@@ -5,6 +5,6 @@ img: cloud.png
 modalID: modalSchulCloud
 link: https://hpi.de/schulcloud
 link2: https://schul-cloud.org
-runtime: 2016-ongoing
+runtime: "fall 2016 - ongoing"
 ---
 The Schul-Cloud is an pilot project to investigate how cloud infrastructure can be used to support the digitalsation of learning in a school context.  

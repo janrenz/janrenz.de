@@ -4,7 +4,7 @@ title:  "openHPI"
 img: openhpi.png
 modalID: modalopenHPI
 link: https://open.hpi.de
-runtime: 2013 - ongoing
+runtime: "2013 - ongoing"
 ---
-openHPI is the MOOC platform of the Hasso Plattner Institute. As part of the research team on knowledge and learning engineering i am responsible for development and running the platform, but more important also do research in the field of massive scalable e-learning. openHPI is based on an SOA with 20+ Microservices, mostly written in Ruby. I also host courses from time to time.
+openHPI is the MOOC platform of the Hasso Plattner Institute. As a part of the research team on knowledge and learning engineering i am responsible for development and running the platform, but more important also do research in the field of massive scalable e-learning. openHPI is based on an SOA with 20+ Microservices, mostly written in Ruby. I also host courses from time to time.
 openHPI started in 2013 and is build with the help of a large crowd of students helping us with new features and research.

@@ -5,8 +5,8 @@
     <description>Nerd, Researcher, PhD Candidate</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Nov 2016 09:30:41 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Nov 2016 09:30:41 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Nov 2016 09:36:07 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2016 09:36:07 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -22,7 +22,7 @@
     
       <item>
         <title>openSAP</title>
-        <description>&lt;p&gt;openSAP is the MOOC platform where SAP provides free courses. As a part of the research team on knowledge and learning engineering we are responsible for development and research in the field of enterprise MOOCs. Mainly i work in the field of learning analytics, UI/UX and Offline Support.&lt;/p&gt;
+        <description>&lt;p&gt;openSAP is the MOOC platform where SAP provides free courses. As a part of the research team on knowledge and learning engineering we are responsible for development and research in the field of enterprise MOOCs. I mainly work in the field of learning analytics, UI/UX and Offline Support.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000//2016/03/01/opensap.html</link>
@@ -44,7 +44,7 @@
     
       <item>
         <title>openHPI</title>
-        <description>&lt;p&gt;openHPI is the MOOC platform of the Hasso Plattner Institute. As part of the research team on knowledge and learning engineering i am responsible for development and running the platform, but more important also do research in the field of massive scalable e-learning. openHPI is based on an SOA with 20+ Microservices, mostly written in Ruby. I also host courses from time to time.
+        <description>&lt;p&gt;openHPI is the MOOC platform of the Hasso Plattner Institute. As a part of the research team on knowledge and learning engineering i am responsible for development and running the platform, but more important also do research in the field of massive scalable e-learning. openHPI is based on an SOA with 20+ Microservices, mostly written in Ruby. I also host courses from time to time.
 openHPI started in 2013 and is build with the help of a large crowd of students helping us with new features and research.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Feb 2016 00:00:00 +0100</pubDate>
