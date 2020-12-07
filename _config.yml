@@ -8,9 +8,9 @@
 # Site settings
 title: Dr. Jan Renz
 email: mail@janrenz.de
-description: Nerd, Researcher, PhD Candidate
+description: Researcher, Father, Consultat
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://janrenz.de" # the base hostname & protocol for your site
+url: "https://janrenz.de" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
 twitter_username: janprenz
