@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wir lernen online (WLO)"
+title:  "OpenEduHub"
 img: wlo.png
 modalID: modalWLO
 link: https://wirlernenonline.de
