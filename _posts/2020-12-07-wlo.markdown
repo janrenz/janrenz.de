@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Wir lernen online (WLO)"
+img: wlo.png
+modalID: modalWLO
+link: https://wirlernenonline.de
+runtime: "2020 - ongoing"
+---
+Wir Lernen Online (we learn online), internal project name OpenEduHub is a search engine for educational content.  
